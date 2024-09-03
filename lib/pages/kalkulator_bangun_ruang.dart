@@ -3,16 +3,16 @@
 import 'dart:math';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'component_page/input_field_adapter.dart';
-import 'models/input_field_model.dart';
-import 'models/text_field_model.dart';
+import '../component_page/input_field_adapter.dart';
+import '../models/input_field_model.dart';
+import '../models/text_field_model.dart';
 
-class HomePage extends StatefulWidget {
+class KalkulatorBangunRuang extends StatefulWidget {
   @override
   _KalkulatorBangunRuangState createState() => _KalkulatorBangunRuangState();
 }
 
-class _KalkulatorBangunRuangState extends State<HomePage> {
+class _KalkulatorBangunRuangState extends State<KalkulatorBangunRuang> {
   final TextEditingController _rusukController = TextEditingController();
   final TextEditingController _panjangController = TextEditingController();
   final TextEditingController _lebarController = TextEditingController();
@@ -118,10 +118,6 @@ class _KalkulatorBangunRuangState extends State<HomePage> {
           ),
           child: AppBar(
             title: Text("Kalkulator Bangun Ruang"),
-            leading: IconButton(
-              icon: Icon(Icons.arrow_back),
-              onPressed: () {},
-            ),
           ),
         ),
       ),

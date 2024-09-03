@@ -1,16 +1,9 @@
-# tugas_state_management_zaff
+# Tugas State Management | Valued Notifier
 
-tugas kelompok value notifier bag. kalkulator bangun ruang
+Tugas Kelompok Valued Notifier 11 PPLG 2
 
-## Getting Started
+## Anggota
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Rayhan Fathurrahmaan Rabbani
+- Syifa Nur Kemala
+- Zakie Faidlurrahmaan Firasi

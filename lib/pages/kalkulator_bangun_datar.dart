@@ -106,10 +106,6 @@ class _KalkulatorBangunDatarState extends State<KalkulatorBangunDatar> {
           ),
           child: AppBar(
             title: Text("Kalkulator Keliling Bangun Datar"),
-            leading: IconButton(
-              icon: Icon(Icons.arrow_back),
-              onPressed: () {},
-            ),
           ),
         ),
       ),

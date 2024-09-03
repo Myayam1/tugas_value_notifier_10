@@ -1,4 +1,4 @@
-# Tugas State Management | Valued Notifier
+# Tugas State Management | Value Notifier
 
 Tugas Kelompok Valued Notifier 11 PPLG 2
 
